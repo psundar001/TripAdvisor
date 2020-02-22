@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        Trip Advisor
+        Trip Advisor V2
     </div>
   );
 }
