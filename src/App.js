@@ -21,7 +21,7 @@ function App() {
 
   return (
     <div>  
-      <div className="App">Trip Advisor V2 </div>  
+      <div className="App">Trip Advisor V2 Testing</div>  
       <MapWithAMarker
   googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyBvOjX5Zf6kVsbG2AaPQfz1xxKPYbJ1ViY&v=3.exp&libraries=geometry,drawing,places"
   loadingElement={<div style={{ height: `100%` }} />}
